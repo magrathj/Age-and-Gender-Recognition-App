@@ -6,6 +6,7 @@ The app takes in an image and performs inference on it to predict the gender of 
 
 
 ```
-python app.py -i "images/sitting-on-car.jpg" -t "DETECTION" -m "/home/workspace/models/age-gender-recognition-retail-0013.xml" -c "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so"
+python app.py -i "images/download (1).jpg" -t "DETECTION" -m "/home/workspace/models/age-gender-recognition-retail-0013.xml" -c "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so"
+
 ```
 
