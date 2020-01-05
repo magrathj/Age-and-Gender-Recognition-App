@@ -2,7 +2,7 @@
 
 This project uses Intel Openvino to build an age and gender recognition app, which can be deployed as an edge application.
 
-The app takes in an image and performs inference on it to predict the gender of the person in the image
+The app takes in an image and performs inference on it to predict the gender of the person in the image. Using the [age-gender-recognition-retail-0013](https://docs.openvinotoolkit.org/latest/_models_intel_age_gender_recognition_retail_0013_description_age_gender_recognition_retail_0013.html)
 
 
 ```
