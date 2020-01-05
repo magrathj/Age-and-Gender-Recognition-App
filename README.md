@@ -10,3 +10,10 @@ python app.py -i "images/download (1).jpg" -t "DETECTION" -m "/home/workspace/mo
 
 ```
 
+
+![input](https://github.com/magrathj/Age-and-Gender-Recognition-App/blob/master/images/download%20(1).jpg)
+
+
+
+
+![output](https://github.com/magrathj/Age-and-Gender-Recognition-App/blob/master/outputs/DETECTION-output.png)
